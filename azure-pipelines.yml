@@ -22,6 +22,3 @@ steps:
   displayName: 'Publish Artifact: drop'
   inputs:
     PathtoPublish: '$(build.artifactstagingdirectory)'
-
-
-git clone https://github.com/Mide993/azurecoursework1.git
